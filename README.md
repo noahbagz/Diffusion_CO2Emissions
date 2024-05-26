@@ -1,7 +1,7 @@
 # Diffusion_CO2Emissions
 Image and Tabular Diffusion Models and Calculations for Model Emissions
 
-##Run Experiment:
+## Run Experiment:
 
 1) Run Generate_Dataset.ipynb to build the datasets for tabular and image models
 
